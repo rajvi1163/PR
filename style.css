@@ -1,0 +1,15 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.logo {
+  width: 47%; /* Adjust the size as needed */
+  height: 100%; /* Adjust the size as needed */
+  border-radius: 50%;
+  background-color: white; /* Change the background color */
+}
+
+.logo img {
+  width: auto; /* Adjust the size of the logo inside the circle */
+  height: auto;
+}
